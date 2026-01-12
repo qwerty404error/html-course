@@ -18,3 +18,10 @@ a:visited {
 a:hover, a:active {
     color: #eee;
 }
+
+table, tr, td, th, caption {
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+    padding: .5rem;
+    border: 1px solid #eee;
+}
